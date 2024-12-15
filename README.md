@@ -5,7 +5,10 @@ I’m currently working on: <br>
    <li>C++ development on Raspberry Pi</li>
    <li>Python game during my free time</li>
 </ul>
-I’m looking to collaborate on: Microservices architecture and AI-driven solutions.<br> I’m looking for help with: Advanced signal processing and radar technologies.<br>I’m currently learning: FPGA programming and secure telecom systems.<br> Ask me about: FullStack development, DevOps, and RF systems.<br>
+With an academic foundation in computer science, networks, and telecommunications, I am eager to apply my skills
+in software development. My hands-on experience includes full-stack development, microservices, and project
+management through various experiences and collaborative projects. I am now seeking an opportunity to deepen my
+expertise in backend development, where I can contribute to impactful projects and continue learning in the field.<br>
 
 
 
