@@ -1,5 +1,7 @@
 # 💫 About Me:
- I’m currently working on: I’m currently working on: Web applications using a 3-tier architecture with MongoDB, C++ development on Raspberry Pi, and video games in Python.<br> I’m looking to collaborate on: Microservices architecture and AI-driven solutions.<br> I’m looking for help with: Advanced signal processing and radar technologies.<br>I’m currently learning: FPGA programming and secure telecom systems.<br> Ask me about: FullStack development, DevOps, and RF systems.<br> Fun fact: I’m developing a video game in Python during my free time!
+I’m currently working on: <br>
+   Web applications using a 3-tier architecture with MongoDB<br>
+   C++ development on Raspberry Pi<br> I’m looking to collaborate on: Microservices architecture and AI-driven solutions.<br> I’m looking for help with: Advanced signal processing and radar technologies.<br>I’m currently learning: FPGA programming and secure telecom systems.<br> Ask me about: FullStack development, DevOps, and RF systems.<br> Fun fact: I’m developing a video game in Python during my free time!
 
 
 ## 🌐 Socials:
