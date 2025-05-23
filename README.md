@@ -3,7 +3,7 @@ I’m currently working on: <br>
 <ul>
    <li>Java Web applications using a 3-tier architecture with MongoDB</li>
    <li>C++ development on Raspberry Pi</li>
-   <li>Python game during my free time</li>
+   <li>Python development for most of my free time: <a href="https://github.com/Arthur-M15/test4a" target="_blank">test4a</a> </li>
 </ul>
 With an academic foundation in computer science, networks, and telecommunications, I am eager to apply my skills
 in software development. My hands-on experience includes full-stack development, microservices, and project
